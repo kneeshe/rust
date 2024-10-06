@@ -1,0 +1,9 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["kneeshe"]
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5" #crate para gerar numeros aleatorios
+colored = "2.1.0" #dependencia para cores
