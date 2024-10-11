@@ -1,0 +1,7 @@
+[package]
+name = "media_aluno"
+version = "0.1.0"
+authors = ["kneeshe"]
+edition = "2021"
+
+[dependencies]

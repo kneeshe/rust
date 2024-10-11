@@ -1,0 +1,1 @@
+C:\Users\crist\Documents\vsCode\rustVs\rust\treino_modulo\target\debug\treino_modulo.exe: C:\Users\crist\Documents\vsCode\rustVs\rust\treino_modulo\src\main.rs C:\Users\crist\Documents\vsCode\rustVs\rust\treino_modulo\src\modulo_interno.rs
